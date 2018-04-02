@@ -1,0 +1,4 @@
+2018-04-02 16:30:09,757 INFO (StartupInfoLogger.java:47)- Starting RunApplication on HYQ-PC with PID 1592 (F:\_Main\ProgramDesign\git\hw-java-restfulWordladder\target\classes started by Administrator in F:\_Main\ProgramDesign\git\hw-java-restfulWordladder)
+2018-04-02 16:30:09,763 DEBUG (StartupInfoLogger.java:50)- Running with Spring Boot v1.2.5.RELEASE, Spring v4.1.7.RELEASE
+2018-04-02 16:30:14,605 INFO (StartupInfoLogger.java:56)- Started RunApplication in 5.169 seconds (JVM running for 6.459)
+2018-04-02 16:30:21,216 DEBUG (UserController.java:20)- 访问Wordladder
